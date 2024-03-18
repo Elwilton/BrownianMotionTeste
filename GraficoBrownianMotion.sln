@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraficoBrownianMotion", "GraficoBrownianMotion\GraficoBrownianMotion.csproj", "{CF3F9BE5-5FA5-4690-BC8B-798A838A6991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3F9BE5-5FA5-4690-BC8B-798A838A6991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3F9BE5-5FA5-4690-BC8B-798A838A6991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3F9BE5-5FA5-4690-BC8B-798A838A6991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3F9BE5-5FA5-4690-BC8B-798A838A6991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E3EE63-BD86-4A2E-A169-D260C17BCDEE}
+	EndGlobalSection
+EndGlobal
