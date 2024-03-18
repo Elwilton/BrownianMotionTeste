@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{CF3F9BE5-5FA5-4690-BC8B-798A838A6991}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GraficoBrownianMotion/MainPage.xaml.cs">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraficoBrownianMotion/Platforms/MacCatalyst/AppDelegate.cs">
     <Files>
-      <File FileName="GraficoBrownianMotion/Platforms/MacCatalyst/AppDelegate.cs" Line="15" Column="13" />
-      <File FileName="GraficoBrownianMotion/AppShell.xaml.cs" Line="7" Column="25" />
-      <File FileName="GraficoBrownianMotion/MainPage.xaml.cs" Line="31" Column="1" />
-      <File FileName="GraficoBrownianMotion/ViewModel/MainViewmodel.cs" Line="19" Column="10" />
-      <File FileName="GraficoBrownianMotion/App.xaml.cs" Line="7" Column="1" />
+      <File FileName="GraficoBrownianMotion/MauiProgram.cs" />
+      <File FileName="GraficoBrownianMotion/MainPage.xaml.cs" />
+      <File FileName="GraficoBrownianMotion/Platforms/MacCatalyst/AppDelegate.cs" Line="28" Column="2" />
+      <File FileName="GraficoBrownianMotion/Model/BrownianMotionModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,21 +15,18 @@
               <Node name="Platforms" expanded="True">
                 <Node name="MacCatalyst" expanded="True" />
               </Node>
-              <Node name="ViewModel" expanded="True" />
-              <Node name="MainPage.xaml.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GraficoBrownianMotion PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.0-rc.2.479" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.0-rc.2.479" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.GraficoBrownianMotion PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MultiItemStartupConfigurations />
 </Properties>

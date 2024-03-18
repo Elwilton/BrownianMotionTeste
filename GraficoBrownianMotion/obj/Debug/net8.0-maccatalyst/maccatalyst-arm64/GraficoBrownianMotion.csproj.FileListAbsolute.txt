@@ -301,3 +301,4 @@
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/GraficoBrownianMotion.pdb
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/GraficoBrownianMotion.genruntimeconfig.cache
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/GraficoBrownianMotion.dll
+/Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/GraficoBrownianMotion.sourcelink.json

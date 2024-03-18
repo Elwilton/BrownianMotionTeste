@@ -52,14 +52,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4uVY67ehp1ajjfVpA6pYIjTJSmsJCr7hJfs/XTs0slI=
+			qJANfIcrBcLLosSG9GrnlUjI6HlOb02LC2fJudE873M=
 			</data>
 		</dict>
 		<key>MonoBundle/GraficoBrownianMotion.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+FlmMxzFdBj/kc1xTf1F3vJxm/IkuBxu4SFxfsQ6S2M=
+			J7n0NKYUrAS1Bvk/tWjVcHKJoByvrVgW7N/WthDiBec=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll</key>
@@ -129,14 +129,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aj/dk+WYfAOOxBBq9u15D/MaXh64NBgsRH94Apbz2Hg=
+			LuxxUkhUyX16o2VL9SE/7pmflxbMVmT8hPL6UhsJyys=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.MacCatalyst.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QRknsQWVf24BDu4i0PXxGA+d1OwEHZKAhkaP8BtCSMw=
+			wJr6BwXK2YSJ+0A+4oHmqt9q5FD+X4EdhgBSYSicy5g=
+			</data>
+		</dict>
+		<key>MonoBundle/Microsoft.Maui.Controls.Compatibility.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iZqNlyIITXkwAJiCaTx2R1aRCugntszdEzt+p9+C8DY=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.Maui.Controls.Xaml.dll</key>

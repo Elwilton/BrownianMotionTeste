@@ -1,5 +1,6 @@
 ﻿using Foundation;
 using Microsoft.Maui.Hosting;
+using Microsoft.Maui.Embedding;
 using UIKit;
 
 namespace GraficoBrownianMotion;
@@ -14,7 +15,15 @@ public class AppDelegate : UIApplicationDelegate
         get;
         set;
     }
-    MauiAppBuilder builder = MauiApp.CreateBuilder();
-    
+    public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
+    {
+        MauiAppBuilder builder = MauiApp.CreateBuilder();
+        builder.UseMauiEmbedding<Microsoft.Maui.Controls.Application>();
+        // Register the Window
+        builder.Services.Add(new Microsoft.Extensions.DependencyInjection.ServiceDescriptor(typeof(UIWindow), Window));
+        MauiApp mauiApp = builder.Build();
+        _mauiContext = new MauiContext(mauiApp.Services);
+        return true;
+    }
 }
 

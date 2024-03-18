@@ -7,9 +7,6 @@ namespace GraficoBrownianMotion;
 public partial class MainPage : ContentPage
 {
 
-	public MainPage()
-	{
-	}
 
     private void OnCanvasViewPaintSurface(object sender, SKPaintSurfaceEventArgs e)
     {
@@ -28,9 +25,14 @@ public partial class MainPage : ContentPage
 
     public MainPage(MainViewModel viewModel)
     {
+        InitializeComponent();
         BindingContext = viewModel;
     }
 
+    private void InitializeComponent()
+    {
+        throw new NotImplementedException();
+    }
 }
 
 

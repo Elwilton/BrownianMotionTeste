@@ -43,6 +43,7 @@
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Extensions.Logging.Debug.dll
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Extensions.Options.dll
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Extensions.Primitives.dll
+/Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Maui.Controls.Compatibility.dll
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Maui.Controls.dll
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Maui.Controls.Xaml.dll
 /Users/eltin/Projects/GraficoBrownianMotion/GraficoBrownianMotion/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../GraficoBrownianMotion.app/Contents/MonoBundle/Microsoft.Maui.dll
